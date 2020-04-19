@@ -14,6 +14,10 @@ LSM:Register("sound", "FifteenSound: SOVA: KICK", [[Interface\Addons\FifteenSoun
 LSM:Register("sound", "FifteenSound: SOVA: U NEXT KICK", [[Interface\Addons\FifteenSound\SOVA\u_next_cast.ogg]])
 LSM:Register("sound", "FifteenSound: SOVA: Stone", [[Interface\Addons\FifteenSound\SOVA\warlock_noob.ogg]])
 LSM:Register("sound", "FifteenSound: SOVA: Trinket", [[Interface\Addons\FifteenSound\SOVA\usetrinket.ogg]])
+LSM:Register("sound", "FifteenSound: SOVA: Ubeegai", [[Interface\Addons\FifteenSound\SOVA\runaway.ogg]])
+LSM:Register("sound", "FifteenSound: SOVA: Run sweety", [[Interface\Addons\FifteenSound\SOVA\run_forest.ogg]])
+LSM:Register("sound", "FifteenSound: SOVA: Inta s potokom", [[Interface\Addons\FifteenSound\SOVA\run_forest.ogg]])
+LSM:Register("sound", "FifteenSound: SOVA: K stene debuff!", [[Interface\Addons\FifteenSound\SOVA\debuff_run.ogg]])
 
 -----------------------
 -- Custom --
